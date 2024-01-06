@@ -8,6 +8,6 @@ Learning Resource: Perfect for developers looking to understand and implement ba
 
 # How to Use
 Clone the repository.
-Run the program in your preferred Python environment.
+Run the program in your preferred environment.
 Input your Sudoku puzzle as prompted.
 Marvel at the solver's quick solution!
